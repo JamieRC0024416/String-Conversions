@@ -32,7 +32,7 @@ namespace Text_Box
             richTextBox1.AppendText(d1.ToString("0.00E00") + "\n");
 
             richTextBox1.AppendText("\nTask 1\n======\n");
-            pi = 3.141592653589793;
+            pi = 3.141592653589793; 
             double c = 299792458;
             //3DP
             richTextBox1.AppendText(pi.ToString() + "\n");
